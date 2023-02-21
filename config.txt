@@ -1,21 +1,21 @@
 ﻿{
 # 公众号配置
 # 公众号appId
-"app_id": "wx6cad042c27ed9934",
+"app_id": "wx7cb691f54682c9b7",
 # 公众号appSecret
-"app_secret": "ef0a0b54b5ed7e230b5c8e87d654aec1",
+"app_secret": "c1501ca1859b12efbd2ef67de79a6c67",
 # 模板消息id
-"template_id": "zFN_QTFEIPjXFP2O8Is8KZ0vmQZ_CnsWmNp1o8TMzU8",
+"template_id": "DlSIgf9OqaPAAjM5BWTBX55luERpDBP1KKVk0SO0XLM",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["o3BeO6as6tsEnFcXGhLRkBY4nwac"],
+"user": ["oE0_25q7R-hEql1KMxDR1a-GV22Y"],
  
 # 信息配置
 # 课程表
-"zhou1": "明天早上10的电力电子技术课(3201),记得带上课本哦!",
-"zhou2": "明天没有课程安排,可以好好休息哟!",
-"zhou3": "明天下午交直流调速系统(3411),嵌入式系统开发技术(3403),记得带上课本哦!",
-"zhou4": "明天晚上现场总线技术(3301),记得带上课本哦!",
-"zhou5": "明天没有课程安排,可以好好休息哟!",
-"zhou6": "明天没有课程安排,可以好好休息哟!",
-"zhou7": "明天没有课程安排,可以好好休息哟!"
+"zhou1": "\n明天早上计算机视觉\n记得带上课本哦!",
+"zhou2": "\n明天早上强化学习与自然计算\n下午机器人传感器与执行器（单周）\n记得带上课本哦!",
+"zhou3": "\n明天早上群体智能与协同\n记得带上课本哦!",
+"zhou4": "\n明天早上博弈论\n下午计算机视觉（双周）\n记得带上课本哦!",
+"zhou5": "\n明天没有课程安排,可以好好休息哟!",
+"zhou6": "\n明天没有课程安排,可以好好休息哟!",
+"zhou7": "\n早上智能感知与移动计算\n下午机器人传感器与执行器\n自然语言处理与理解\n记得带上课本哦!"
 }
