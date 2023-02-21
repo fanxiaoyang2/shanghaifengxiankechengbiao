@@ -1,13 +1,13 @@
-﻿{
+{
 # 公众号配置
 # 公众号appId
-"app_id": "wx7cb691f54682c9b7",
+"app_id":"wx7cb691f54682c9b7",
 # 公众号appSecret
-"app_secret": "c1501ca1859b12efbd2ef67de79a6c67",
+"app_secret":"c1501ca1859b12efbd2ef67de79a6c67",
 # 模板消息id
-"template_id": "DlSIgf9OqaPAAjM5BWTBX55luERpDBP1KKVk0SO0XLM",
+"template_id":"DlSIgf9OqaPAAjM5BWTBX55luERpDBP1KKVk0SO0XLM	",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oE0_25q7R-hEql1KMxDR1a-GV22Y"],
+"user":["oE0_25qmiZvjU8XkZ6d1NfKIMOY8"],
  
 # 信息配置
 # 课程表
